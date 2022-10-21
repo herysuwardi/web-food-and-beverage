@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-boxs;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F8FAFC;
+}
+
+.wrapper__login {
+  overflow-x: hidden;
+} 
+
+.img__login {
+  width: 85%;
+}
+
+.text__login h1{
+  font-size: 60px;
+}
+
+.text__login p {
+  font-size: 20px;
+}
+
+.col-5 {
+  margin-top: 8rem;
+}
+
+.wrapper__box {
+  padding:  35px;
+}
+
+.wrapper__button {
+  margin-top: -2rem;
+  padding: 35px;
+  text-align: center;
+}
+
+
